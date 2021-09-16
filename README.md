@@ -1,2 +1,2 @@
-# Fake-Currency-Detection-
-Detects fake currency using Object Detection
+# Twitter-Sentiment-Analysis
+
